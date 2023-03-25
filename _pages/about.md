@@ -45,4 +45,4 @@ Yeqin Zhang, **Haomin Fu**, Cheng Fu, Haiyang Yu, Yongbin Li, Cam-Tu Nguyen \
 - *2022.01 - 2023.01*, Damo Academy, Alibaba Group, China.
 
 # 📖 Blogs
-[link](gouqi666.github.io/blogs)
+[link](https://gouqi666.github.io/blogs)
