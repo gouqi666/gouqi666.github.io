@@ -19,7 +19,7 @@ redirect_from:
 
 [//]: # (Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.)
 
-My research interest includes natural language processing and dialogue system.
+My research interest includes natural language processing, dialogue system, LLMs, RLHF etc.
 
 [//]: # (# 🔥 News)
 
@@ -28,21 +28,24 @@ My research interest includes natural language processing and dialogue system.
 [//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
 # 📝 Publications
-- Coarse-to-Fine Knowledge Selection for Document Grounded Dialogs \
-Yeqin Zhang, **Haomin Fu**, Cheng Fu, Haiyang Yu, Yongbin Li, Cam-Tu Nguyen \
-[[Paper](https://arxiv.org/pdf/2302.11849)], **ICASSP 2023**
+- Diversify Question Generation with Retrieval-Augmented Style Transfer \
+**Qi Gou**, Zehua Xia, Bowen Yu, Haiyang Yu, Fei Huang, Yongbin Li, Nguyen Cam-Tu \
+[[Paper](https://aclanthology.org/2023.emnlp-main.104.pdf)], **EMNLP 2023**
 
-- Doc2Bot: Accessing Heterogeneous Documents via Conversational Bots \
-**Haomin Fu**, Yeqin Zhang, Haiyang Yu, Jian Sun, Fei Huang, Luo Si, Yongbin Li, Cam-Tu Nguyen \
-[[Paper](https://arxiv.org/pdf/2210.11060)], **Findings of EMNLP 2022**
+- Cross-lingual Data Augmentation for Document-grounded Dialog Systems in Low Resource Languages \
+**Qi Gou**, Zehua Xia, Wenzhe Du \
+[[Paper](https://aclanthology.org/2023.dialdoc-1.1.pdf)], **The third DialDoc workshop of ACL 2023**
 
-  
+- Improving Question Generation with Multi-level Content Planning \
+Zehua Xia, **Qi Gou**, Bowen Yu, Haiyang Yu, Fei Huang, Yongbin Li, Cam-Tu Nguyen \
+[[Paper](https://aclanthology.org/2023.findings-emnlp.57.pdf)], **Findings of EMNLP 2023**
+ 
 # 📖 Educations
 - *2020.09 - 2023.06*, M.S., School of Artificial Intelligence, Nanjing University.
-- *2016.09 - 2020.06*, B.S., School of Software Engineering, Southeast University.
+- *2016.09 - 2020.06*, B.S., School of Software Engineering, University of Electronic Science and Technology of China.
 
 # 💻 Internships
-- *2022.01 - 2023.01*, Damo Academy, Alibaba Group, China.
-
+- *2022.07 - 2023.04*, Damo Academy, Alibaba Group, China.
+- *2022.05 - 至今*, DeepLang AI, China.
 # 📖 Blogs
 [link](https://gouqi666.github.io/blogs)
