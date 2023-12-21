@@ -41,12 +41,12 @@ Zehua Xia, **Qi Gou**, Bowen Yu, Haiyang Yu, Fei Huang, Yongbin Li, Cam-Tu Nguye
 [[Paper](https://aclanthology.org/2023.findings-emnlp.57.pdf)], **Findings of EMNLP 2023**
  
 # 📖 Educations
-- *2020.09 - 2023.06*, M.S., School of Artificial Intelligence, Nanjing University.
-- *2016.09 - 2020.06*, B.S., School of Software Engineering, University of Electronic Science and Technology of China.
+- *2021.09 - 2023.06*, M.S., School of Artificial Intelligence, Nanjing University.
+- *2017.09 - 2021.06*, B.S., School of Software Engineering, University of Electronic Science and Technology of China.
 
 # 💻 Internships
 - *2022.07 - 2023.04*, Damo Academy, Alibaba Group, China.
-- *2022.05 - 至今*, DeepLang AI, China.
+- *2023.05 - 至今*, DeepLang AI, China.
 
 # 📖 Blogs
 [personal blogs](https://gouqi666.github.io/blogs)
