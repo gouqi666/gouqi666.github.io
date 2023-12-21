@@ -47,5 +47,6 @@ Zehua Xia, **Qi Gou**, Bowen Yu, Haiyang Yu, Fei Huang, Yongbin Li, Cam-Tu Nguye
 # 💻 Internships
 - *2022.07 - 2023.04*, Damo Academy, Alibaba Group, China.
 - *2022.05 - 至今*, DeepLang AI, China.
+
 # 📖 Blogs
-[link](https://gouqi666.github.io/blogs)
+[personal blogs](https://gouqi666.github.io/blogs)
